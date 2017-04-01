@@ -6,7 +6,7 @@
     text-align: center;
 }
 
-.projects,.education,.work_experience,.skills{
+.projects,.education,.work_experience,.skills,.PublishedApps{
     /*border: solid white 2px;*/
     padding: 2em 5em 2em 5em;
 }
@@ -69,3 +69,24 @@
     background-size:100%;
     background-repeat: no-repeat;
 }
+
+.PublishedApps{
+    padding-top: 10em;
+    padding-bottom: 5em;
+    background-image: url("../img/city.jpg");
+    background-color: transparent;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+	color:white;
+}
+.FutureApps{
+    padding-top: 10em;
+    padding-bottom: 5em;
+    background-image: url("../img/SF.jpg");
+    background-color: transparent;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+

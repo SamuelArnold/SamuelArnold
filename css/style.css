@@ -64,12 +64,18 @@
 }
 
 .projects{
-    background-image: url("../img/SF.jpg");
+    background-image: url("../img/SF2.jpg");
     background-color: transparent;
     background-size:100%;
     background-repeat: no-repeat;
 }
 .projects2{
+    background-image: url("../img/SF2.jpg");
+    background-color: transparent;
+    background-size:100%;
+    background-repeat: no-repeat;
+}
+.projects3{
     background-image: url("../img/SF2.jpg");
     background-color: transparent;
     background-size:100%;

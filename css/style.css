@@ -69,6 +69,12 @@
     background-size:100%;
     background-repeat: no-repeat;
 }
+.projects2{
+    background-image: url("../img/SF2.jpg");
+    background-color: transparent;
+    background-size:100%;
+    background-repeat: no-repeat;
+}
 
 .PublishedApps{
     padding-top: 10em;
